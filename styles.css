@@ -1,0 +1,54 @@
+ body{
+    margin: 20%;
+    background-color: #00fa9a;
+}  
+ .title{
+    text-align: center;
+    box-shadow: 5px 5px 10px white;
+    font-size: 6vh;
+}
+img{
+   display: inline-block;
+   width: 100%;
+}
+
+#caption{
+   font-size: 15px;
+   font-family: sans-serif;
+   color: black;
+}
+
+ .info{
+    margin-top: 50px;
+    padding: 25px 25px;
+    margin: 11px;
+    background-color:rgba(46, 139, 87, 0.25);
+    box-shadow: 20px 20px 20px #98fb98;
+    font-family: sans-serif;  
+ }
+ h1.title-APJ{
+   font-size: 35px;
+   color: white;
+   text-align: center;
+   text-shadow: 5px 5px 10px black;
+ }
+ 
+ 
+ 
+   
+ 
+ 
+ 
+   
+   
+
+
+ 
+ 
+ 
+    
+ 
+ 
+    
+     
+    
